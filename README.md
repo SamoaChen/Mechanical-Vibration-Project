@@ -5,4 +5,4 @@
 **Optimized Time Domain Response (driven frequency under normal truck speed):**
 ![time domain](https://github.com/SamoaChen/Mechanical-Vibration-Project/blob/master/Three%20Boxes%20Systems/min_amp.png)
 **Optimized Frequency Domain Response:**
-![frequency domain]()
+![frequency domain](https://github.com/SamoaChen/Mechanical-Vibration-Project/blob/master/Three%20Boxes%20Systems/optimized_frequency_res.png)
